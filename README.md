@@ -1,26 +1,11 @@
-## Hi there 👋
+## hey ;)
 
 <!--
 **odetteodette/odetteodette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+my name is odette I'm making this website for my computers class. I'm just an analog girl in this digital world, you know? Erykah Badu said that. I cannot take credit for it because that would be considered a lie or even fraud. anyways. there is some stuff on here. I like making stuff. thats why I'm going to college for making stuff professionally at the cooper union for the advancement of art and science. click around. do all the links work?? 
 
 Alt-H1
 ======
